@@ -1,3 +1,4 @@
+
 # 🧠 PrepMate
 
 **PrepMate** is an AI-powered educational platform that transforms static university syllabi into dynamic, gamified mock exams. Built with a robust Spring Boot backend and the Google Gemini AI API, it allows students to generate infinite practice tests tailored exactly to their coursework.
@@ -21,3 +22,7 @@
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/YOUR_USERNAME/PrepMate.git](https://github.com/YOUR_USERNAME/PrepMate.git)
+
+# PrepMate
+An AI-powered mock exam generator using Spring Boot
+ 0d82cd039acfba851fcfcad9fa269d642f54b740
